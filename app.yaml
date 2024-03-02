@@ -1,0 +1,2 @@
+runtime: java11
+entrypoint: 'java -jar ./target/[chatDemo-0.0.1-SNAPSHOT.jar].jar'
